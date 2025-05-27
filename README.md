@@ -11,7 +11,7 @@ instruction..........
 -open terminal and go to directory -- cd project
 -then run command --- py manage.py runserver
 -it will land you on a login page you can login or signup with new account for user refrence purpose or you can use given id pass given below
-- username--- noob    password ----  noob12345
+- username--- noob    --   password ----  noob12345
 
 -for access admin id pass contact -- yashunarota@gmail.com
 
